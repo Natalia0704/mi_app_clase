@@ -8,5 +8,3 @@ st.balloons()
 
 
 st.snow()
-
-with.st.skeleton(height=50):do_something_slow()
