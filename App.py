@@ -6,6 +6,7 @@ st.button("click ;)")
 
 st.balloons()
 
-st.button("click :(")
 
 st.snow()
+
+with.st.skeleton(height=50):do_something_slow()
