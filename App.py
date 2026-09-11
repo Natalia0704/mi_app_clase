@@ -5,3 +5,7 @@ st.title("Aplicacion para programación :)")
 st.button("click ;)")
 
 st.balloons()
+
+st.button("click :(")
+
+st.snow()
